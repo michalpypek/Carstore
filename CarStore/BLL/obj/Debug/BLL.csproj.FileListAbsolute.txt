@@ -1,0 +1,13 @@
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\BLL.dll
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\BLL.pdb
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\DAL.dll
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\EntityFramework.dll
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\DAL.pdb
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projekty\aspnet\CarStore\CarStore\BLL\bin\Debug\EntityFramework.xml
+D:\Projekty\aspnet\CarStore\CarStore\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Projekty\aspnet\CarStore\CarStore\BLL\obj\Debug\BLL.dll
+D:\Projekty\aspnet\CarStore\CarStore\BLL\obj\Debug\BLL.pdb
